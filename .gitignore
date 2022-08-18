@@ -1,0 +1,12 @@
+seleniumpythonactionbot
+*_pycache_*
+*allure*
+.pytest_cache
+./**/*_pycache_*
+index.js
+*.log
+node_modules
+*.png
+*.css
+*.html
+*.json

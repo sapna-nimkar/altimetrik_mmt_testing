@@ -1,0 +1,4 @@
+[submodule "seleniumpythonactionbot"]
+	path = seleniumpythonactionbot
+	url = https://github.com/srinivasaraojyothi/seleniumpythonactionbot.git
+	branch = main

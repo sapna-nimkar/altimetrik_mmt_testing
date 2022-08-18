@@ -1,0 +1,12 @@
+version: '3'
+services:
+  automation:
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: pyallied:2
+    network_mode: bridge  
+    environment:
+       - tag=teach     
+    ports:
+      - "8000:8000"      
